@@ -1,0 +1,6 @@
+.compare-box {
+  max-width: 800px;
+  margin: auto;
+  border-radius: 10px;
+  overflow: hidden;
+}
