@@ -7,7 +7,7 @@ function Navbar() {
   return (
     <header className="navbar">
       <div className="logo">
-        Richard <span>Car Paints</span>
+        Richard <span>Car Paints 🚗</span>
       </div>
 
       <div className="menu-icon" onClick={() => setOpen(!open)}>
